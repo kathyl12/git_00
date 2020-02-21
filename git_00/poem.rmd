@@ -1,0 +1,55 @@
+---
+title: "git_00"
+author: "Katherine Larin"
+date: "Spring semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+'Not you!  Oh, where's my hat?  Oh, I don't need it!    
+I must get out of here.  I must get air.  
+I don't know rightly whether any man can.'  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+The sun was shining on the sea,   
+Shining with all his might  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+Do not stand at my grave and weep   
+I am not there; I do not sleep.   
+I am a thousand winds that blow,   
+I am the diamond glints on snow,  
+I am the sun on ripened grain,   
+I am the gentle autumn rain.   
+When you awaken in the morning's hush  
+I am the swift uplifting rush   
+Of quiet birds in circled flight.    
+I am the soft stars that shine at night.    
+Do not stand at my grave and cry,    
+I am not there; I did not die.  
+
+
+
+
+
+
+
